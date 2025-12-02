@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69932&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69932",
+    "title": "5공학관 504-1호 전기가 안됩니다",
+    "timestamp": "427",
+    "poster": "형광등은 나오는데 전기가 안되네요 멀티탭 문제인가 해서 새것으로 해봤는데도 안됩니다 고쳐주시면 감사하겠습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

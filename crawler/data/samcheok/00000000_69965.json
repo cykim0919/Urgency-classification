@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69965&&pageUnit=10&key=313&pageIndex=34",
+    "id": "69965",
+    "title": "공무원 준비반 공기청정기",
+    "timestamp": "437",
+    "poster": "공무원 준비반 안에 있는 공기청정기 필터 교체좀 해주세요 필터가 너무 더럽습니다. 있는데 잘 사용해야죠~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

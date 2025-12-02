@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=134246&&pageUnit=10&key=313&pageIndex=6",
+    "id": "134246",
+    "title": "5공학관 강의실 히터",
+    "timestamp": "936",
+    "poster": "추운 겨울이 다가오고 있는 계절입니다. 학생들이 공부를 해야하는데 강의실의 온도가 10도가 되지 않아 추위 때문에 공부에 집중이 되지 않고 한명 두명이 감기를 걸리더니 감기가 터지기 시작하였습니다. 추위와 감기 걱정없이 따듯한 강의실에서 공부에 집중하고 싶습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

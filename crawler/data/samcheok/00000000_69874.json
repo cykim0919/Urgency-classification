@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69874&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69874",
+    "title": "복사실프린터 및 기숙사내 프린터이용",
+    "timestamp": "626",
+    "poster": "복사실에 갔을때 원활하게 인쇄를 해본적이 대학생활 3년중 손가락 안에 꼽습니다. 1장당 인쇄가격이 50원하기에 몇장 잘못 인쇄되어도 그냥 넘어가는 경우가 많았습니다. 하지만 더 이상은 못참겠습니다. 복사실 컴퓨터 USB 인식이 안되고 컴퓨터에 Adobe reader도 설치되어 있지 않아 헛걸음 친적이 여러번 있습니다. 컴퓨터 성능또한 너무좋지 않아 속터집니다. 인쇄하는데 1시간이나 소요한적도 있습니다. 그리고 복사카드 충전은 왜 꼭 복사실에서만 가능한건가요? 고작 종이인쇄 몇장하려고 두타관에 사는학생은 꽤 많은 거리를 걸어서 가야합니다. 기숙사내 프린터또한 오작동하는 경우가 정말 많습니다. 제대로 정비해주십시오. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

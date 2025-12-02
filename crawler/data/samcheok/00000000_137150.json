@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=137150&&pageUnit=10&key=313&pageIndex=6",
+    "id": "137150",
+    "title": "1공학관 엘레베이터 1층 버튼 고장",
+    "timestamp": "837",
+    "poster": "엘레베이터 1층 버튼이 고장났습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "image.jpg"
+}

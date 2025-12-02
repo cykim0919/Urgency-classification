@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=126685&&pageUnit=10&key=313&pageIndex=9",
+    "id": "126685",
+    "title": "3공학관 226호 문고리 고장났습니다.",
+    "timestamp": "853",
+    "poster": "안녕하세요. 3공학관 226호 원자흡광분석실의 문고리가 고장났습니다. 안에서는 열리지만 밖에서는 열쇠를 이용해야만 열립니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

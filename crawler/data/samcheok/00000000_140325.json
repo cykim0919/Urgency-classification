@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=140325&&pageUnit=10&key=313&pageIndex=5",
+    "id": "140325",
+    "title": "미래관 3층 문 불량",
+    "timestamp": "734",
+    "poster": "미래관 3층 문 불량입니다 문이 안닫히고 있습니다 수리 부탁드립니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

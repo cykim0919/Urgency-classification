@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=180223&&pageUnit=10&key=313&pageIndex=1",
+    "id": "180223",
+    "title": "삼척캠퍼스 제3공학관 계단 천장",
+    "timestamp": "150",
+    "poster": "사진 확대보기 사진 확대보기 삼척캠퍼스 제3공학관 우측 줄입구쪽 계단 천장 수리가 필요합니다. 사진 첨부하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "KakaoTalk_20250705_143353333_06.jpg KakaoTalk_20250705_143353333_07.jpg"
+}

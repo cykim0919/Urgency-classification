@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=138665&&pageUnit=10&key=313&pageIndex=6",
+    "id": "138665",
+    "title": "1공학관 3층 남자화장실",
+    "timestamp": "868",
+    "poster": "1공학관 3층 남자화장실 변기 칸막이 문이 떨어져나갔습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

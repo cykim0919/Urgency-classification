@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70113&&pageUnit=10&key=313&pageIndex=19",
+    "id": "70113",
+    "title": "4공학관 235호 앞문이 잠기질 않습니다.",
+    "timestamp": "574",
+    "poster": "바닥에 잠금하는 장치가 떨어져나가서 문이 안잡깁니다. 똑딱이를 잠궈도 바닥에 고정이 안되어있어서 문을 밀면 바로 열립니다. 고쳐주세요~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

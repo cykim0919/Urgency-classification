@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70196&&pageUnit=10&key=313&pageIndex=11",
+    "id": "70196",
+    "title": "학생회관 여학생 휴게실 전등",
+    "timestamp": "888",
+    "poster": "학생회관 여학생 휴게실 전등이 너무 어둡고 고장나서 안들어옵니다.계절학기 듣느라 추운 겨울날 공강시간에 갈곳없을 때 자주 가는 곳인데너무 어둡습니다. 전등 꼭 고쳐주세요ㅠㅠㅠ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

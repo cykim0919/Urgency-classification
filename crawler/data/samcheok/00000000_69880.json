@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69880&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69880",
+    "title": "4공학관 열람실 형광등 교체 부탁드려요",
+    "timestamp": "534",
+    "poster": "4공학관 4층 열람실 형광등 교체 부탁드려요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

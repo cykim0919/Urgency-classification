@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69859&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69859",
+    "title": "3공학관 4층 정수기좀 빨리좀!!!!!!!",
+    "timestamp": "613",
+    "poster": "3공학관 4층에 있는 정수기 좀 고쳐주세요 망가진지 꽤 됐는데 안고쳐주시네요? 빨리 고쳐주시기 바랍니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

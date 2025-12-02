@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69876&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69876",
+    "title": "인사대 건물 뒤쪽 벽면 일부 떨어져나감",
+    "timestamp": "820",
+    "poster": "안녕하세요. 5공학관 지킴이 입니다~ 금일 낮 2시~3시 사이 경 5공학관과 인사대 사이에서 쿵 하는 소리가 났어요 본인은 1층에 있었기 때문에, 나가봤지요. 장관이였음. 인사대 건물 옆 벽면 스티로폼과 석고판때기가 1층 부터 5층 정도까지 떨어져 바람에 날라다니면서 5공학관 건물을 마구 때렸어요 5공학관 건물 벽면은 바람에 날라온 석고판과 스티로폼 일부 돌맹이들로 인하여 빵꾸났습니다. 5공학관 옆쪽 창문 안때린게 천만 다행. 암튼. 지금 창문 앞에 잔해들이 엄청납니다 5공 소나무들도 쓰러짐. 한그루 숨지셨어요 나님 공부하다가 숨질뻔함. 잔해를 얼른 치워야 한다고 생각됩니다. 제가 치우고 싶지만 너무 커서 ㅠ 전쟁터 같아요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

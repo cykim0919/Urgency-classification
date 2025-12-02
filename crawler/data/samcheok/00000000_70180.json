@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70180&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70180",
+    "title": "2공학관 3층 시설문의",
+    "timestamp": "752",
+    "poster": "2공학관 3층 남자화장실 변기 위 램프 교체요망.2공학관 3층 정수기 필터 관리 필요2공학관 3층 복도 모기 퇴치 필요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

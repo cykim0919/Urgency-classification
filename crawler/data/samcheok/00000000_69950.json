@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69950&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69950",
+    "title": "학생회관 시설물 수리처리 되었습니다.",
+    "timestamp": "487",
+    "poster": "따듯한 봄 만큼이나 마음도 따듯해졌으면 합니다. 학생회관 3층남(좌,우측) 수세밸브 패킹 교체 2EA 강의동 지하 샤워실 세탁용 급수밸브 볼밸브 15A 1EA 처리 하였습니다. 교내 시설물에 관심가져주셔사 감사드립니다. 앞으로도 시설물 이상 발생시 기계팀으로 연락주시길바라겠습니다. 기계팀(570-6711,6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

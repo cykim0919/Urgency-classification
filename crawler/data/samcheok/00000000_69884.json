@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69884&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69884",
+    "title": "1공학관 3층 남자화장실 소변기 수리 요청",
+    "timestamp": "530",
+    "poster": "1공학관 3층 남자화장실 소변기 2사로 수리 요청합니다. 밑부분에 누수가 발생합니다. 해결해 주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

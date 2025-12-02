@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=131722&&pageUnit=10&key=313&pageIndex=7",
+    "id": "131722",
+    "title": "2공학관 3층 305호",
+    "timestamp": "929",
+    "poster": "스탠다드형 에어컨 냉매가스 부족으로 에러 CH35 뜨고있습니다 ! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70135&&pageUnit=10&key=313&pageIndex=17",
+    "id": "70135",
+    "title": "냉방기 좀 빨리 고쳐주세요.",
+    "timestamp": "717",
+    "poster": "5공학관 402호 냉방기 가동이 전혀 안됩니다. 빨간불만 들어옵니다. 지난주부터 계속 안됩니다. 방학기간동안 학교에 남아 전공 공부를 열심히 하고 싶습니다. 전공동아리 회원들이 6명 더 있습니다.. 학우들이 많이 힘들어하네요.. 빨리 고쳐주세요. 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

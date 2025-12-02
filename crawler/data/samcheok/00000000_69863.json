@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69863&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69863",
+    "title": "도서관 무선인터넷 자꾸 끊겨요",
+    "timestamp": "588",
+    "poster": "무선 인터넷 자꾸 꺼졌다 켜졌다해요.. 어차피 학번 없어도 로그인 되는데 굳이 왜 프로그램을 통해서 인터넷을 해야 하는지... 접때 잠깐 바로 잡혔을때 처럼 풀어주세요. 자꾸 팅기기만 하고 인터넷 잘 되지도 않아요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

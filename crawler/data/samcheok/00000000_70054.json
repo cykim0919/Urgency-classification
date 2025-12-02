@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70054&&pageUnit=10&key=313&pageIndex=25",
+    "id": "70054",
+    "title": "공무원준비반 좌측에 등이 안들어 오는 곳이 있어요!",
+    "timestamp": "451",
+    "poster": "공무원준비반 좌측에 등이 안들어 오는 곳이 있어요! 확인 하시고 등좀 갈아주세욤! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69939&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69939",
+    "title": "공동실험실습관  답변드립니다.",
+    "timestamp": "442",
+    "poster": "안녕하세요. 공동실험 실습관 2층 여자 화장실 수세밸브 피스톤 이상으로 물내림이 잘 안되었기에. 피스톤 교체 하였습니다. 시설물 문제 발생시 기계팀으로 연락바라겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

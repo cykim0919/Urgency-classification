@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69947&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69947",
+    "title": "5공학관 6층 정수기 물이 안나와요",
+    "timestamp": "446",
+    "poster": "5공학관 6층 정수기 물이 안나옵니다 정수기가 아예 안되는것 같아요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

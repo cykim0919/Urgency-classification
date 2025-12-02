@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=78&nttNo=72783&&pageUnit=10&key=323&pageIndex=2",
+    "id": "72783",
+    "title": "관광예술방재공학관 무선인터넷 고쳐주세요.",
+    "poster": "관광예술방재공학관 학교 무선인터넷을 사용할수가 없네요. 2학기 되고 1달 넘게 지났는데 여전히 고쳐지지 않고 있습니다. 저번에 고친다고 얘기는 들은 것 같은데 달라진게 없어요. 교양동은 잘되는데 왜 관광예술방재공학관만 안되는지 모르겠네요. 빨리 고쳐주시기바랍니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "timestamp": "2013년 10월 10일 12시 01분 23초",
+    "content": ""
+}

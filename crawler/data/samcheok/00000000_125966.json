@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=125966&&pageUnit=10&key=313&pageIndex=9",
+    "id": "125966",
+    "title": "3공학관 223호 문고리 수리요청",
+    "timestamp": "829",
+    "poster": "3공학관 223호 출입문 문고리가 고장이 났습니다. 가능한 빠르게 수리 부탁 드리겠습니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

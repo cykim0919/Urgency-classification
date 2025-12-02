@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69960&&pageUnit=10&key=313&pageIndex=35",
+    "id": "69960",
+    "title": "제3공학관 시설물고장신고 처리되었습니다.",
+    "timestamp": "397",
+    "poster": "서로의 불편함이 없도록 관심부탁드리겠습니다. 강의동 1층남자 세면기 막힘제거 3공학관 1층여자 수세밸브패킹 교체 하였습니다. 4공학관 1층남자 소변기 수세밸브 피스톤 교체 하였습니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

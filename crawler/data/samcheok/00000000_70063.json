@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70063&&pageUnit=10&key=313&pageIndex=24",
+    "id": "70063",
+    "title": "도서관 및 시설물 고장신고 처리 되었습니다.",
+    "timestamp": "486",
+    "poster": "더욱 싸늘한 초겨울의 날씨 인가봅니다. 감기 조심하세요 도서관 1층남자 화장실 고장신고 처리 되었습니다. 체육관 1층 남자 화장실 고장신고 처리 되었습니다. 학생회관 1층 여학생휴게실 휴지걸이 설치 되었습니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

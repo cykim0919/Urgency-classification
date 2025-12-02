@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=130689&&pageUnit=10&key=313&pageIndex=7",
+    "id": "130689",
+    "title": "5공학관 4층 복도 정수기 점검 요청",
+    "timestamp": "806",
+    "poster": "5공학관 4층 복도 정수기가 이번 학기 들어서면서 매주 고장이 잦은 것 같습니다. 시설지원과에서 정기점검을 해 주세요. 학생들이 물 마시는데 많은 불편함을 느끼고 있습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

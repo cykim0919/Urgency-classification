@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=138483&&pageUnit=10&key=313&pageIndex=6",
+    "id": "138483",
+    "title": "4공학관 104-1호 전등 점검요청",
+    "timestamp": "807",
+    "poster": "4공학관 104-1호 실험실 내 전등 하나가 들어오지 않습니다. 점검 요청합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

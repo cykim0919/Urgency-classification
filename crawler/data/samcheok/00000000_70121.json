@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70121&&pageUnit=10&key=313&pageIndex=19",
+    "id": "70121",
+    "title": "5공학관 남자 화장실(조명 교체)",
+    "timestamp": "676",
+    "poster": "5공학관 남자 화장실 세면대 위 : 현광등 2개 동작안함(교체요청) 소변기 위 : 현광등 4개 동작안함(교체요청) 대변기 위 : 화장실 문 쪽부터 1, 2(어두음), 3, 4 위 조명 동작안함(교체요청) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

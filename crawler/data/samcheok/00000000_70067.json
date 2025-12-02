@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70067&&pageUnit=10&key=313&pageIndex=24",
+    "id": "70067",
+    "title": "3공학관 413호 3개 중 중간 라디에이터에서 물이 샙니다.(많이)",
+    "timestamp": "492",
+    "poster": "3공학관 413호는 건축학과 2학년 학생들이 컴퓨터 작업을 하는 곳인데 라디에이터가 전선 근처에 있어서 물이 많이 새서 글을 올립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

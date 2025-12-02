@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69946&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69946",
+    "title": "도서관 엘리베이터기계실 환풍기 교체",
+    "timestamp": "431",
+    "poster": "승강기 정기검사 점검사항 엘리베이터 기계실 환풍기 고장으로 인하여 교체 하였습니다. (D300) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

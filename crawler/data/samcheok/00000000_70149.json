@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70149&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70149",
+    "title": "5공학관 2층 정수기가 안됩니다.",
+    "timestamp": "625",
+    "poster": "오공학관 2층 정수기가 냉수도 안되고 온수도 안됩니다. 수리 해주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70159&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70159",
+    "title": "5공학관 6층 612호 옆 옥상공간(?) 출입문 자동닫힘 장치 불량",
+    "timestamp": "768",
+    "poster": "안녕하세요 5공학관 6층 612호 옆 옥상공간(?) 출입문 자동닫힘 장치가 불량 났습니다. 학생들이 출입시 머리를 부딪히는 경우도 발생하는 것 같습니다. 점검 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

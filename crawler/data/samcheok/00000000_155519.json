@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=155519&&pageUnit=10&key=313&pageIndex=3",
+    "id": "155519",
+    "title": "5공학관 402호 에어컨 고장",
+    "timestamp": "292",
+    "poster": "CH21 오류가 발생되었습니다. 열에 약한 장비가 있어 조치가 시급합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

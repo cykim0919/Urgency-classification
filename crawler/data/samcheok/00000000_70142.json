@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70142&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70142",
+    "title": "5공학관 앞 정자",
+    "timestamp": "786",
+    "poster": "정자안에서 위에보면 말벌들이 모여있어서 위험해보입니다 빨리 처리를 하는게 좋을거같습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

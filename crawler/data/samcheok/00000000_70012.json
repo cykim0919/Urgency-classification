@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70012&&pageUnit=10&key=313&pageIndex=29",
+    "id": "70012",
+    "title": "5공학관 612호 에어컨 작동",
+    "timestamp": "401",
+    "poster": "오공학관 점검시간이2시~3 시 사이에한다구 했는데 3시가 지난 지금 612호 에어컨이 작동이 안되나요? 더워서 공부를 할수 없네요... 빨리 해결 해주세요 부탁 드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

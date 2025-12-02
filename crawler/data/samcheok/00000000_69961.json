@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69961&&pageUnit=10&key=313&pageIndex=35",
+    "id": "69961",
+    "title": "5공학관 화장실 변기 수리 요청",
+    "timestamp": "415",
+    "poster": "5공학관 4층 남자화장실 양변기 2개나 막혔습니다. 빨리 고쳐주세요. 평소에 자주 막히는 것 같아요.. 변기 수압문제인지, 아니면 사람에 의한 문제인지 모르겠어요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69888&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69888",
+    "title": "5공학관 6층 옥상 문손잡이 고장",
+    "timestamp": "574",
+    "poster": "5공학관 6층 602호강의실 맞은편 쪽 옥상 문손잡이가 고장났습니다. 수리부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

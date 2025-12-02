@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69875&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69875",
+    "title": "4공학관 2층 남자 여자 화장실",
+    "timestamp": "609",
+    "poster": "4공학관 2층 남자 여자 화장실 모두 세면대 등이 나갔어요 밤에는 거울이 안보인답니다 교체부탁드립니다 ^^ 수고하세용 ~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

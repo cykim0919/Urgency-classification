@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=130374&&pageUnit=10&key=313&pageIndex=7",
+    "id": "130374",
+    "title": "5공학관 엘리베이터 고장",
+    "timestamp": "1014",
+    "poster": "1층에서 엘리베이터 닫힘 버튼이 제대로 작동하지 않습니다. （닫힘 버튼을 눌러도 엘리베이터 문이 닫히지 않습니다.） 또한 엘리베이터의 문 닫힘 속도가 지나치게 느립니다. 확인 요청드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

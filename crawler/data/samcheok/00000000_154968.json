@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=154968&&pageUnit=10&key=313&pageIndex=4",
+    "id": "154968",
+    "title": "5공학관 612호 에어컨 온도 조절 버튼 파손",
+    "timestamp": "359",
+    "poster": "사진 확대보기 안녕하세요. 5공학관 612호 에어컨 온도 조절 버튼이 파손되어 수리 요청 드립니다. 파손 원인은 이전의 사용자들의 부주의한 사용으로 인한 것으로 추정됩니다. 항상 고생해 주셔서 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "에어컨 버튼 파손.jpg"
+}

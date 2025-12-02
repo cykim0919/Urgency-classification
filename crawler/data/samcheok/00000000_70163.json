@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70163&&pageUnit=10&key=313&pageIndex=14",
+    "id": "70163",
+    "title": "제2 학생회관 3층 불이 안들어옵니다.",
+    "timestamp": "667",
+    "poster": "314호 세레에노 동아리방 전등이 안들어옵니다. 전기와 에어콘은 작동되는데 개강 후 지금까지 불은 안들어오네요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

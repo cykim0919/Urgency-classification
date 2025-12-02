@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=78&nttNo=130328&&pageUnit=10&key=323&pageIndex=1",
+    "id": "130328",
+    "title": "미래관 5층 남자화장실 등이 하루종일 안꺼집니다.",
+    "poster": "미래관 5층 남자화장실 등이 하루종일 안꺼집니다. 점검해주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "timestamp": "2019년 03월 22일 09시 33분 37초",
+    "content": ""
+}

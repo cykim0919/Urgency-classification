@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69885&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69885",
+    "title": "5공학관 201호-1 준비실에 문 손잡이 파손 수리요망",
+    "timestamp": "589",
+    "poster": "5공학관 201호-1 준비실에 문 손잡이가 파손되었습니다 수리바랍니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

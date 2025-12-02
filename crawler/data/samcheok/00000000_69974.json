@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69974&&pageUnit=10&key=313&pageIndex=33",
+    "id": "69974",
+    "title": "동아리타운 2층 남자화장실 형광등",
+    "timestamp": "428",
+    "poster": "동아리타운 2층 남자화장실 불이 안들어온지 꽤 지낫는데 고쳐주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

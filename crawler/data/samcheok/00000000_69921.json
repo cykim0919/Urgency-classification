@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69921&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69921",
+    "title": "3공학관 2층부터 4층까지 정수기 뜨거운물이 안나와요!",
+    "timestamp": "516",
+    "poster": "3공학관 2층부터 4층까지 정수기 뜨거운물이 안나와요! 고쳐주시거나 강의동 정수기처럼 좀 바꿔주세요... 관리도 잘 안되는거 같고..... 아무튼 빨리 바꿔주세요!! 뜨거운물 안나온지 3일?....ㅠㅠㅠ 날도 추운데... 찬물먹기.. 참...ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

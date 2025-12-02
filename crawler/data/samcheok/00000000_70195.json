@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70195&&pageUnit=10&key=313&pageIndex=11",
+    "id": "70195",
+    "title": "5공611호 난방기 CH3",
+    "timestamp": "826",
+    "poster": "점검 부탁드립니다.(미리 과사로 연락주시면 문 열어 드릴게요~)제어계측공학과 380 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

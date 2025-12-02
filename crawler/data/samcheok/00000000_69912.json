@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69912&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69912",
+    "title": "4공학관 1층 여자화장실",
+    "timestamp": "522",
+    "poster": "4공학관 1층 여자화장실 형광등이 4개중에 한곳만 들어오네요 어두워 지면 화장실가기 무섭습니다..... function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

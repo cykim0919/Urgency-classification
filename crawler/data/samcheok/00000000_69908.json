@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69908&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69908",
+    "title": "분수남자화장실 전구요",
+    "timestamp": "511",
+    "poster": "분수 남자화장실에 밤에 화장실 이용할때 전구 희미하게 나와요.. 교체해주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

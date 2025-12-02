@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70186&&pageUnit=10&key=313&pageIndex=12",
+    "id": "70186",
+    "title": "학생회관 4층 헬스장 런닝머신",
+    "timestamp": "881",
+    "poster": "헬스장 런닝머신 수리좀 부탁 드립니다, 현재 6대가 보유중인거 같은데, 제대로 되는건 TV 밑에 있는 거 하나밖에 안되네요, 나머지 수리 좀 부탁드릴께요. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

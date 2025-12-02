@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=78&nttNo=174466&&pageUnit=10&key=323&pageIndex=1",
+    "id": "174466",
+    "title": "도캠 학생회관 1층 복도 천장 수리해주세요",
+    "poster": "사진 확대보기 도캠 학생회관 1층 사무실들 앞 복도 천장 수리가 필요합니다. 사진 첨부합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "timestamp": "2024년 11월 05일 23시 59분 55초",
+    "content": "KakaoTalk_20241105_234529027.jpg"
+}

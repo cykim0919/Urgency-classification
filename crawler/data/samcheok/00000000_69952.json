@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69952&&pageUnit=10&key=313&pageIndex=35",
+    "id": "69952",
+    "title": "조형관 배수관 막힘 제거 하였습니다.",
+    "timestamp": "369",
+    "poster": "안녕하세요 조형관 302호 배수관 막힘제거 하였습니다. 제2학생회관 4층 샤워실 전기온수기 수리 되었습니다. 교내 시설물에 관심을 가져 주셔서 감사드립니다.. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

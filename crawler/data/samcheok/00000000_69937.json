@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69937&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69937",
+    "title": "학생회관 3층 변기누수 신고에 대한 답변을 드립니다.",
+    "timestamp": "439",
+    "poster": "교내 시설물 유지관리에 관심을 가져주셔서 감사드립니다. 신고하신 내용에 대한 처리내용을 알려 드립니다. 방문 점검한 결과 부품의 노후화로 인한것으로 교체 수리완료 하였습니다. 앞으로도 시설물 고장 신고사항이 생기시면 항상 연락하여 주시기 바랍니다. * 문의전화: 시설지원팀 (기계) TEL. 570-6711 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69879&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69879",
+    "title": "게시판에 관한 사항",
+    "timestamp": "613",
+    "poster": "게시판에 대한 문의글 올립니다. 저는 4학년 이수임 입니다. 학교 정문(패밀리마트쪽)을 비롯한 게시판에 대해 여쭤보고싶은 것이 있는데요. 게시판이 몇년만에 바꾸니 깔끔해보이고 좋은데요. 아래에 게시판 부착집게는 일부러 저렇게 박아 놓으신건지 궁금합니다. 학교에 들어오는 입구 게시판을 보면 짜증부터 납니다. 물론 저 뿐만이 아니구요. 크기를 고려하여 게시판집게를 부착하셨다면 게시판이 연달아 3개나 있는데 크기마다 달리 해놓으시지 왜 저렇게 덕지덕지 붙여놓으신지 정말 의문이 갑니다. 새로운 신입생들이 들어올텐데 들어오자마자 보이는 게시판에 대해 부끄러운 마음까지 듭니다. 학생들의 등록금을 들여 게시판을 바꾸었다면 게시글을 보는 사람에 맞추어 제대로 바뀌어야 되는게 아닌가요? 특별한 이유가 없는한 4공 입구 게시판처럼 보기좋게 다시 해주셨으면 좋겠습니다. 사진첨부가 안되어 첨부못했습니다, function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

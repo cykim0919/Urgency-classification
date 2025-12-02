@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=133807&&pageUnit=10&key=313&pageIndex=7",
+    "id": "133807",
+    "title": "5공학관 4층 네트워크 문제",
+    "timestamp": "843",
+    "poster": "5공학관 4층 402-1호 사용중인데 컴퓨터 사용시 인터넷 연결이 너무 느려 불편합니다. 용량이 큰 파일들을 받을 시 연결이 불안정하여 다운로드가 잘 안되고 끊기는데 확인해 주셨으면 좋겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

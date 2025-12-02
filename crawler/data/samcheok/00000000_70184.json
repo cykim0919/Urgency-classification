@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70184&&pageUnit=10&key=313&pageIndex=12",
+    "id": "70184",
+    "title": "3공학관 2층 227호 방충망과 230호 수도꼭지 교체 요망",
+    "timestamp": "784",
+    "poster": "수고 많으십니다. 화학공학과 12학번 박성호 입니다. 3공학관 2층 227호 방충망을 부착해주셨으면 좋겠습니다. 아무래도 저녁까지 이곳에 남아서 공부를 하고 있어서 벌레문제가 걱정입니다. 그리고 230호 연구실에 수도꼭지의 물을 틀고 잠그는 손잡이 부분이 플라스틱으로 되있어서 쉽게파손된 것 같습니다. 교체 부탁드립니다. 답장 기다리겠습니다. 장마기간에 몸 조심하세요 ~~! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

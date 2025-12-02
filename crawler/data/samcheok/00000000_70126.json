@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70126&&pageUnit=10&key=313&pageIndex=18",
+    "id": "70126",
+    "title": "5공학관 6층 복도 현광등 다수 나갔어요~",
+    "timestamp": "663",
+    "poster": "5공학관 6층 복도 현광등 다수 나갔어요 복도 한쪽은 대부분 불이 들어오는데 다른 한쪽은 불이 하나도안들어오네요 복도 중앙에도 절반정도 나갔어요~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

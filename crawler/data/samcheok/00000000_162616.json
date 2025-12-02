@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=162616&&pageUnit=10&key=313&pageIndex=3",
+    "id": "162616",
+    "title": "학생회관 4층 402호 냉난방기 작동 오류",
+    "timestamp": "348",
+    "poster": "안녕하세요. 수고많으십니다. 학생회관 4층 402호（삼척체력인증센터） 냉난방기가 작동이 되지 않아 연락 드립니다. 냉난방기에서 물이 새는 현상이 발생합니다. 확인 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70169&&pageUnit=10&key=313&pageIndex=14",
+    "id": "70169",
+    "title": "제2학생회관 [학군단] 3층 동아리방 불이 안들어옵니다.",
+    "timestamp": "731",
+    "poster": "제2학생회관 [학군단] 3층 부분부분 동아리방 불이 안들어옵니다. 복도와 전기는 들어옵니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

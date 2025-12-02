@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69935&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69935",
+    "title": "휴지걸이교체",
+    "timestamp": "397",
+    "poster": "제3공학관 1층여, 4층남 제4공학관 1층남 제5공학관 6층남 공동실험실습관 4층여 인문사회학관 4층 남, 여 휴지걸이 파손으로인한 교체 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

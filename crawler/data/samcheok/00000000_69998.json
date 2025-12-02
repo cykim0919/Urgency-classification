@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69998&&pageUnit=10&key=313&pageIndex=31",
+    "id": "69998",
+    "title": "강의동 및 시설물 고장신고 처리 하였습니다.",
+    "timestamp": "405",
+    "poster": "후텁지근한 습도 많은 여름날씨 덥게 느껴집니다. 찬음식은 배알이를 할 수 있습니다. 강의동1층여자 화장실 고장신고 처리 하였습니다. 5공학관 6층남자화장실 고장신고 처리 하였습니다. 전산소 3층세면대 고장신고 처리하였습니다. 2공학관 1층여자화장실 고장신고 처리하였습니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70155&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70155",
+    "title": "5공학관 2층 남자화장실",
+    "timestamp": "751",
+    "poster": "5공학관 2층 남자화장실 안쪽 불이 켜지지 않습니다. 센서 감지는 되는데 들어가자마자 청소용품있는곳 불은 켜지는데 안쪽 소변기 있는쪽 불이 켜지지 않습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

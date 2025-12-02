@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=157150&&pageUnit=10&key=313&pageIndex=3",
+    "id": "157150",
+    "title": "5공403호 컴퓨터 인터넷 안됨",
+    "timestamp": "371",
+    "poster": "발표수업할때 인터넷 연결이 안되서 불편합니다. 수리 부탁드려요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

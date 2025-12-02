@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=126845&&pageUnit=10&key=313&pageIndex=9",
+    "id": "126845",
+    "title": "대운동장",
+    "timestamp": "1015",
+    "poster": "대운동장에 농구코트가 있습니다. 골대가 4개나있는데 단한개도 그물이 부착되있지 않습니다. 꽤 오래 방치되고 있는것 같은데 조치가능하다면 조치 부탁드리겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

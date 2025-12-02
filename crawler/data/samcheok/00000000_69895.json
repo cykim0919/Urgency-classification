@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69895&&pageUnit=10&key=313&pageIndex=41",
+    "id": "69895",
+    "title": "삼공 사층 정수기 고장이요",
+    "timestamp": "519",
+    "poster": "정수기가 물이 안나와요 ㅜ ㅜ 한번 고쳐주신것 같은데 계속 그래서요 ㅜ ㅜ 처리 부탁드립니다 ㅜ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

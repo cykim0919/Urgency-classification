@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70123&&pageUnit=10&key=313&pageIndex=18",
+    "id": "70123",
+    "title": "조형관 5층 정수기가 고장난 것 같습니다.",
+    "timestamp": "645",
+    "poster": "안녕하십니까. 디자인스포츠대학 멀티디자인학과 2학년 김현수 입니다. 저희 멀티과에서 전공수업을 듣는 조형관 5층 정수기가 고장이 난 것 같습니다. 몇주전부터 정수기는 켜져있지만 물이 나오지 않고있습니다. 확인해 주시면 감사하겠습니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

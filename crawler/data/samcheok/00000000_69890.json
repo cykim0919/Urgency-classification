@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69890&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69890",
+    "title": "풋살장 제설좀 부탁드리겠습니다.",
+    "timestamp": "593",
+    "poster": "저번주 금요일날 동아리타운 옆에 풋살장을 이용할려고 하였는데 풋살장에 눈이 쌓여 있어서 이용하는데 제약이 있었습니다. 풋살장 제설좀 부탁 드리겠습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70144&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70144",
+    "title": "5공학관 4층 복도 형광등",
+    "timestamp": "689",
+    "poster": "5공학관 4층 복도 형광등 안켜짐 엘레베이터에서 내려서 왼쪽편 복도입니다. 형광등을 갈았는데도 안켜집니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

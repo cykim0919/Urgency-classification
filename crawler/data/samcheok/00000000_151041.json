@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=151041&&pageUnit=10&key=313&pageIndex=4",
+    "id": "151041",
+    "title": "5공학관 402호 난방기",
+    "timestamp": "375",
+    "poster": "CH35라는 오류 메세지와 함께 난방기가 동작을 하지 않습니다. 리셋 버튼도 동작을 하지 않고 다른 버튼들도 동작을 하지 않습니다. 이런 현상이 시간단위로 여러번 반복되었는데 이번에는 하루 이상 동작하지 않습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

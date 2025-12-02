@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69938&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69938",
+    "title": "창업보육센터 세면기 막힘 답변드립니다.",
+    "timestamp": "413",
+    "poster": "창업보육센터 시설물에 대한 관심 감사드리며 고장문의하신 창업보육센터 별관1층 남자 세면기 막힘제거를 처리하였습니다. 앞으로도 이상이 있을시 항시 알려주시길 부탁드리겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

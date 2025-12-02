@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70148&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70148",
+    "title": "5공학관 503호 난방기가 안돼요",
+    "timestamp": "685",
+    "poster": "빨간불이 들어오고요 안됩니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69924&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69924",
+    "title": "3공학관 414호 도어스토퍼(문고정말발굽)이 망가졌습니다.",
+    "timestamp": "449",
+    "poster": "3공학관 414호 도어스토퍼(문고정말발굽)이 망가졌습니다. 수리부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

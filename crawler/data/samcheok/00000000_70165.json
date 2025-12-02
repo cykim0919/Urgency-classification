@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70165&&pageUnit=10&key=313&pageIndex=14",
+    "id": "70165",
+    "title": "4공학관 화단 감나무",
+    "timestamp": "758",
+    "poster": "4공학관 화단에 감나무가 심어져 있는데 가지가 늘어져 쇠파이프로 받쳐놓고 했는데 다른쪽도 또그래서 보기안좋고 차에도 부딪힙니다. 느러진 가지를 잘랐으면 좋겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

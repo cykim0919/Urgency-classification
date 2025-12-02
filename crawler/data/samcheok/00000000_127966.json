@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=127966&&pageUnit=10&key=313&pageIndex=8",
+    "id": "127966",
+    "title": "3공학관 건물 뒤 하수 덮개 교체 문의",
+    "timestamp": "968",
+    "poster": "사진 확대보기 사진 확대보기 3공학관 건물 뒤 하수 덮개 교체 문의드립니다. 위치는 토목공학과 구조동 바로 앞입니다. 부식이 심하고 차량 하중에 의해 많이 변형되어 차량 이동시 바퀴가 빠질 염려가 있습니다. 확인부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "KakaoTalk_20181130_164836894.jpg KakaoTalk_20181130_164840765.jpg"
+}

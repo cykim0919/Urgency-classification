@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70006&&pageUnit=10&key=313&pageIndex=30",
+    "id": "70006",
+    "title": "5공학관 6층 612호 에어콘작동이 안됩니다",
+    "timestamp": "419",
+    "poster": "에어컨이 자꾸 켜졌다가 꺼졌다가 합니다 왜 자꾸 꺼졌다가 켜지는 건가요? 날이 너무 덥습니다..에어컨 좀 켜주세요...... function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

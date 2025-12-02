@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69954&&pageUnit=10&key=313&pageIndex=35",
+    "id": "69954",
+    "title": "5공학관 6층 엘리베이터 복도측 버튼이 안눌러집니다.",
+    "timestamp": "377",
+    "poster": "5공학관 6층 엘리베이터 복도측 버튼이 안눌러집니다. 신속한 처리 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

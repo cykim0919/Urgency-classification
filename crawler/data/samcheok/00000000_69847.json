@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69847&&pageUnit=10&key=313&pageIndex=46",
+    "id": "69847",
+    "title": "형광등좀 바꿔주세요.",
+    "timestamp": "794",
+    "poster": "1공학관 3층 329호 형광등좀 가려 주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

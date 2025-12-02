@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69878&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69878",
+    "title": "1공학관 옥상문 이탈",
+    "timestamp": "625",
+    "poster": "1공학관 옥상 문이 이탈되었습니다 학기중 바람이 심하게불던날 그런것 같은데 고쳐주셨으면합니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

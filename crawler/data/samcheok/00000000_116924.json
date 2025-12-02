@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=116924&&pageUnit=10&key=313&pageIndex=9",
+    "id": "116924",
+    "title": "조형관 204호 일반공작실 콘센트 연결 안되는곳이 많습니다.",
+    "timestamp": "919",
+    "poster": "3구씩 5개의 콘센트(약15개)중 총 6-8개만 작동합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

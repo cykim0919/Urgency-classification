@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69866&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69866",
+    "title": "형광등 갈아주세요",
+    "timestamp": "530",
+    "poster": "3공학관 414호 형광등 10개나 나갔습니다 빨리 갈아주세요~ 10개가 나가니 너무 어둡네요- -;; 그리고 3공학관 4층 복도에도 등 나간게 좀 많더라고요 화장실도 그렇고 비누도 계속 없고 확인 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

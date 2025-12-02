@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70153&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70153",
+    "title": "5공학관 4층 복도 정수기",
+    "timestamp": "725",
+    "poster": "5공학관 4층 복도 정수기 물이 셉니다. 물이 빠지는 부분이 물이 자꾸 셉니다. 정수기 교체해주세요~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

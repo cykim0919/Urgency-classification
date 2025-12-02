@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69926&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69926",
+    "title": "조형관 중계기설치",
+    "timestamp": "510",
+    "poster": "조형관 중계기가 없어 큰 불편함을 겪고있습니다. 휴대폰의 기본적인 통화를 3층 야외로 나가서 받고 걸어야 하며 스마트폰을 사용하는데 카카오톡이나 3G 로 하는 모든 것이 잘 되지 않아. 추운 날씨에 밖에 나가서 해야만합니다. 그래서 제가 직접 시간을 내어 엘지고객선터로 여러차례 전화를 하였으나 그 상담직원이 하는말이 저희도 그 학교 학생들에게 많은 전화가 오지만 학교에서 설치를 원하지 않아서(중계기설치거부). 학교의 허락이 필요하니 저 보고 허락을 받을 수 있도록 되려 저에게 부탁을 했습니다. 왜 중계기를 설치하지 못하는 건지 이유나 빠른 설치를 할 수 있도록 협조해주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

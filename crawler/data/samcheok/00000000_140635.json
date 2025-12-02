@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=140635&&pageUnit=10&key=313&pageIndex=5",
+    "id": "140635",
+    "title": "글로벌 경영관 엘리베이터 1호기",
+    "timestamp": "607",
+    "poster": "어제（20일） 오후 4시 반 경부터 오늘 아침까지 실내등이 커지지 않네요. 비상버튼 눌렀으나 신호도 잘 안가고 받지도 않네요. 문제가 많네요. 속히 점검 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69865&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69865",
+    "title": "3공학관 416호 선풍기요!!",
+    "timestamp": "592",
+    "poster": "3공학관 416호 선풍기가 다 망가졌습니다. 빠른 교체 부탁드릴께요! 강의 듣는데 너무 덥습니다!!!ㅠㅠ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

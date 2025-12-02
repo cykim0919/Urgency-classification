@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69903&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69903",
+    "title": "5공학관 2층 여자화장실 문이 잠겨있어요.",
+    "timestamp": "480",
+    "poster": "항상 수고가 많으십니다. ^-^ 오늘 오전 10시쯤부터 5공학관 2층 여자화장실 문이 계속 잠겨있어서 불편합니다. 문 좀 열어주세요. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

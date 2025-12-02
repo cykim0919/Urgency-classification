@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69861&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69861",
+    "title": "4공 인사대",
+    "timestamp": "632",
+    "poster": "4공 1층 남자화장실 형광등이 사람도 없는데 계속 켜져있구요.. 인사대 엘리베이터 원래 1층에서 자동으로 연리는 건가요? function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

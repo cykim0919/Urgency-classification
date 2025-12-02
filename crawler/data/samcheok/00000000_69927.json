@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69927&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69927",
+    "title": "두타뒤쪽길 제설",
+    "timestamp": "504",
+    "poster": "두타뒤쪽길 제설좀 부탁드립니다. 외각이라 신경쓰기 힘든점은 이해하나 최소한 사람이 다닐정도의 제설은 해주셨으면 합니다. 그 길역시 학교 시설로 일텐데 너무 무관리한것 같아서.. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

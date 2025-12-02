@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69872&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69872",
+    "title": "중앙도서관 홈페이지 로그인 접속 오류",
+    "timestamp": "579",
+    "poster": "로그인하면 로그인 성공 로그 이후 다시 로그인 하는 창이 뜹니다. 로그인이 안되네요 결국 홈페이지 문제 같은데 빠른 시일내에 좀 고쳐주세요 불편합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

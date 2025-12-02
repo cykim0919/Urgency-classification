@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=78&nttNo=164207&&pageUnit=10&key=323&pageIndex=1",
+    "id": "164207",
+    "title": "황조관 b동 옥상소음 심각합니다 살려주세요",
+    "poster": "안녕하세요. 황조생활관에 거주하는 관생입니다. 먼저 도계캠퍼스의 시설 유지를 위해 애써주시는 학교 직원분들께 감사의 말씀 드립니다. 저는 황조관 B동 13층에 거주중 입니다. 지금 이 글을 쓰는 와중에도 13층 바로 위 ＂옥상＂, ＂휀룸＂이 있는 층에서 굉음이 들려와 괴롭습니다. 23년 9월 초부터 굉음이 아주 간간히 들려오기 시작하더니 어제 （9월 20일） 저녁 8시부터 지금 새벽 3시를 넘기는 와중에도 계속 드릴로 벽을 뚫는 듯한 굉음이 천장에서 들려옵니다. （수정: 지금 아침 6시가 다 되는데도 들립니다.. 10시간째 들려서 죽을거 같습니다..） 정확히는 13층 바로 위 ＂옥상＂이라고 적혀있는 공간 안에서 굉음이 발생하는 것 같습니다. 왠만한 소음이면 참아 보려 노력했으나 귀마개를 껴도, 이어폰 소음차단 기능을 켜도 소음이 뚫고 들어옵니다. 소음의 정도를 컴퓨터 첨부파일로 올리려 했으나 도저히 업로드 오류가 지속되어 모바일로 글 올립니다 말로 설명드리자면 공사장 천공기로 벽을 뚫는듯한 소리가 들립니다. 소리가 너무 크고 급성적이라 이른시각에 글 올립니다 제발 빠른 시간내에 해결해주세요 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "timestamp": "2023년 09월 21일 05시 05분 43초",
+    "content": ""
+}

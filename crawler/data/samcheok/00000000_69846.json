@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69846&&pageUnit=10&key=313&pageIndex=46",
+    "id": "69846",
+    "title": "기숙사 인터넷좀 고쳐주세요.",
+    "timestamp": "972",
+    "poster": "방학동안에 두타생활관에 살고있는데 이틀째 인터넷이 안되네요.. 무인도에 사는 기분입니다 ^^ 빨리 고쳐주세요. 배타고 무인도를 탈출하고싶네요. 지금 인터넷은 돈주고 피씨방 왔습니다 ^^ 돈주고요~~~~~~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

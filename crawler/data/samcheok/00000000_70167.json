@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70167&&pageUnit=10&key=313&pageIndex=14",
+    "id": "70167",
+    "title": "5공학관 409호 손잡이고장",
+    "timestamp": "698",
+    "poster": "5공학관 409호 출입문 손잡이 잠금장치 고장났습니다. 문옆에 들어갔다 나갔다하는 잠금부분이 고장나서 교체 부탁드립니다. 둥근 형태입니다. 교체 후 열쇠는 5공학관 412호(전자공학과사무실)로 주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

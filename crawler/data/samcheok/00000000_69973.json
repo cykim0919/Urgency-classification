@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69973&&pageUnit=10&key=313&pageIndex=33",
+    "id": "69973",
+    "title": "제2학생회관 2층 남자 화장실",
+    "timestamp": "385",
+    "poster": "제2학생회관 2층 남자 화장실에 전등이 안 들어 옵니다 저녁에는 사용을 할수가 없습니다 (어두워서) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

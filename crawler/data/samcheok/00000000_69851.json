@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69851&&pageUnit=10&key=313&pageIndex=46",
+    "id": "69851",
+    "title": "학생회관 농구골대 그물이요!",
+    "timestamp": "727",
+    "poster": "학생회관에 농구골대 그물이 찢어져 떨어져 있어요 대운동장도 그물이 없더라고요!! 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

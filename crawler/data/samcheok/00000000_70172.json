@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70172&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70172",
+    "title": "1공학관 3층 화장실 좌변기 1사로 문 수리 요청",
+    "timestamp": "738",
+    "poster": "추운날씨 수고가 많습니다. 1공학관 3층 화장실 좌변기 1사로 문이 노후화로 인하여 고장났습니다 원활한 배변활동 보장을 위하여 수리를 요청드리오니 처리하여 주시기 바랍니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

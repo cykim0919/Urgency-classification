@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70191&&pageUnit=10&key=313&pageIndex=12",
+    "id": "70191",
+    "title": "학생회관 3층 신문사 여자화장실",
+    "timestamp": "776",
+    "poster": "학생회관 3층 신문사 여자화장실에 전등이 항상 켜저있어요, 꺼지지 않아요 에너지절약을 위해서라도 빠른 조치 바랍니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

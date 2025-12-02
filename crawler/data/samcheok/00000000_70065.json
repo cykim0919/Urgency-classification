@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70065&&pageUnit=10&key=313&pageIndex=24",
+    "id": "70065",
+    "title": "제2학생회관(동아리센터)2층 여자 화장실 불이 안꺼지고 계속 켜져있어요",
+    "timestamp": "527",
+    "poster": "안에 사람이 없어도 불이 계속 켜져있고요~ 어떻게 해도 안꺼지네요~ 계속 켜져있는게 전력 낭비라고 생각되서 이렇게 글을 올립니다~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

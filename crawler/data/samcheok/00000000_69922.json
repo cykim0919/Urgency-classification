@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69922&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69922",
+    "title": "농구골대 그물",
+    "timestamp": "469",
+    "poster": "농구골대 그물좀 달아주세요 진짜 몇달동안 그물을 안달아주시네요 계속 지켜봤는데... 그래서 글 올립니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

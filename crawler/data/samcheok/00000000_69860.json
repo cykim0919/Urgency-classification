@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69860&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69860",
+    "title": "4공학관 도서관에 형광등3개 나갔습니다~",
+    "timestamp": "573",
+    "poster": "4공학관 도서관에 형광등3개 나갔습니다~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

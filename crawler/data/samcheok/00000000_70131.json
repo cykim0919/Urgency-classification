@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70131&&pageUnit=10&key=313&pageIndex=18",
+    "id": "70131",
+    "title": "5공학관 6층 옥상으로 나가는 문 고장났습니다.",
+    "timestamp": "667",
+    "poster": "5공학관 6층 옥상으로 나가는 문 고장났습니다. 엘레베이터에서 내려서 왼쪽 602호 앞쪽 문 고장났습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

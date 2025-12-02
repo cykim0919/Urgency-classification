@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69914&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69914",
+    "title": "학생회관 뒷편  족구장 가로등 하나 고쳐주세요.",
+    "timestamp": "497",
+    "poster": "밤에도 족구를하고싶은데 가로등하나가 불빛이 안들어오네요. 아래글에보면 에너지절약을위해서 소등하였다고 했는데. 밤에도 족구 할수있도록 켜주셨으면 합니다 부탁드립니다. 꼭 부탁드립니다.. 수고하세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

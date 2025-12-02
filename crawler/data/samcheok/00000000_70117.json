@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70117&&pageUnit=10&key=313&pageIndex=19",
+    "id": "70117",
+    "title": "5공학관 1층 엘리베이터 버튼 불량",
+    "timestamp": "708",
+    "poster": "안녕하세요. 5공학관 1층 엘리베이터 버튼 불량 입니다. 안 눌러집니다. 점검 부탁드립니다.. 수고하세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

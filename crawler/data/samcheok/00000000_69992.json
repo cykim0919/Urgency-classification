@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69992&&pageUnit=10&key=313&pageIndex=31",
+    "id": "69992",
+    "title": "5공학관 102호 인터넷에 연결되어 있지 않습니다.",
+    "timestamp": "371",
+    "poster": "102호 강의실 공사 후 학술동아리실인 준비실의 인터넷에 연결되어 있지 않습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

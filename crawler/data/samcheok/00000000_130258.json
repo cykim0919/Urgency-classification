@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=130258&&pageUnit=10&key=313&pageIndex=8",
+    "id": "130258",
+    "title": "5공학관 5층 정수기",
+    "timestamp": "818",
+    "poster": "5공학관 5층 복도 정수기 냉수 기능 고장 및 수위가 항상 낮은 상태입니다. 정수기 교체 요청드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

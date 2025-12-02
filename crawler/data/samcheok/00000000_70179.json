@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70179&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70179",
+    "title": "학교 뒷길 가로등 관련",
+    "timestamp": "758",
+    "poster": "수고하십니다다름이 아니라 삼척캠퍼스에 재학중인 학생인데요. 학교 뒷편 기숙사 지나서 마달동으로 이어지는 내려막길 무덤지나서 커브길에 설치된 커브미러 있는 곳에 있는 가로등이 야간에 항상 불이 안들어오는거 같은데 그 길이 많이 어둡습니다. 그래서그런데 그 가로등 좀 한번 고쳐주셧음 합니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

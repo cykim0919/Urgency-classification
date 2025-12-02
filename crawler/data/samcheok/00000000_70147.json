@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70147&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70147",
+    "title": "5공학관 5층 정수기 따뜻한 물이 안나와요",
+    "timestamp": "914",
+    "poster": "자주 안됩니다. 확인해주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

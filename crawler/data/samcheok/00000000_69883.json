@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69883&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69883",
+    "title": "윤정로",
+    "timestamp": "497",
+    "poster": "5공학관 101호 커텐이 망가졌어요 ㅠ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

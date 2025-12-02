@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70161&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70161",
+    "title": "학생회관 4층 헬스장",
+    "timestamp": "808",
+    "poster": "런닝머신좀 고쳐주세요 그많은 머신중 하나밖에 작동이 안됩니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

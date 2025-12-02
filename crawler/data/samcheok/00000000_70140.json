@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70140&&pageUnit=10&key=313&pageIndex=17",
+    "id": "70140",
+    "title": "5공학관 3층 정수기 관련..",
+    "timestamp": "743",
+    "poster": "5공학관 3층 정수기는 항상 아침에 물이 나오고 저녁엔 물이 나오지 않습니다. 매일 물의 양이 정해진 것도 아닐텐데 왜 이런 현상이 발생하는 지 모르겠네요.. 정수기 좀 검사 해 주세요.. 뭐가 문제인지.. ㅠㅠ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

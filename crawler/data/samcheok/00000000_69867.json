@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69867&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69867",
+    "title": "조형관 엘리베이터등좀;",
+    "timestamp": "589",
+    "poster": "개강때부터 등이 나가있던데.. 아무도 안갈아주시네요 ㅜㅜ 조형관엘리베이터에 지금 4갠가중에 3개안들어어오고 1개만들어와서 캄캄해요.. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=146241&&pageUnit=10&key=313&pageIndex=4",
+    "id": "146241",
+    "title": "제2학생회관 에어컨 고장",
+    "timestamp": "472",
+    "poster": "제2학생회관 1,2층 모든 에어컨의 온도가 28도에 고정되어있으며, 온도조절 후에도 28도로 자동으로 변경되며 몇 시간 후에 자동으로 전원이 꺼져 불편합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

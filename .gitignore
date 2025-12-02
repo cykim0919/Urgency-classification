@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+*.iml
+
+# Data files
+*.csv
+
+# Model files
+*.bin
+*.pt
+*.pkl
+*.zip
+*.h5
+*.safetensors
+*.ckpt
+*.pickle
+
+# HuggingFace cache
+huggingface/
+cache/
+outputs/
+logs/
+runs/
+checkpoint-*/
+
+# Project-specific
+csv/bert_emergency_model/

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70049&&pageUnit=10&key=313&pageIndex=26",
+    "id": "70049",
+    "title": "1공학관 3층 화장실 형광등 교체해주세요",
+    "timestamp": "463",
+    "poster": "1공학관 3층 화장실 형광등 교체해주세요 4개중 2개만 작동됩니다(2개 OFF) 정확한 조준이 안됩니다. 바쁘시겠지만 신속한 처리 부탁드립니다 !! 정하서 선생님 화이팅 !! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

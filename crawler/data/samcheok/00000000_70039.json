@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70039&&pageUnit=10&key=313&pageIndex=27",
+    "id": "70039",
+    "title": "2학생회관 및 고장신고 처리 되었습니다.",
+    "timestamp": "448",
+    "poster": "아침저녁으로 싸늘합니다. 환절기 감기 유의하세요. 2학생회관 4층남자화장실 고장신고 처리되었습니다. 학생회관 2층 여자 화장실 고장신고 처리되었습니다. 5공학관 식당 수도 고장신고 처리되었습니다. 도서관 1층남자 화장실 고장신고 처리되었습니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

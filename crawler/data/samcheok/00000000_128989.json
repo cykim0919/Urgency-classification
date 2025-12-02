@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=128989&&pageUnit=10&key=313&pageIndex=8",
+    "id": "128989",
+    "title": "2공학관 313호 회로및시스템설계연구실 난방기 고장",
+    "timestamp": "831",
+    "poster": "토요일 전기점검 이후로 난방기가 안켜집니다. 전원이 안들어오는거 같은데 고쳐주셨으면 좋겠습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

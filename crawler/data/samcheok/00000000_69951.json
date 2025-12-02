@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69951&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69951",
+    "title": "조형관 시설물 처리되었습니다.",
+    "timestamp": "440",
+    "poster": "바람도 많이 붑니다. 조형관 1층남자 수세밸브 피스톤 패킹교체 및 세척밸브교체 공실관 1층남자 수세밸브 피스톤 패킹교체 하였습니다. 시설물에 이상이 있을때는 기계팀으로 연락하시면 됩니다. 기계팀(570-6711,6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

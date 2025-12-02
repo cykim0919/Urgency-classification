@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70058&&pageUnit=10&key=313&pageIndex=25",
+    "id": "70058",
+    "title": "공동실험실습관 3층 303호 PC2실 컴퓨터가 부팅이 잘 안됩니다.",
+    "timestamp": "492",
+    "poster": "PC2실에서 수업이 있는데요.. 앞에서 교수님이 보여주시는 스크린을 보고 따라하면서 배워야 더 수월하게 배울수 있어서 항상 앞자리를 앉고싶은데 부팅이 안되는 컴퓨터가 너무 많아서 멀리 떨어진 뒷좌석에서 수업을 들어야 합니다. 컴퓨터는 자리에 있는데 부팅이 안됩니다... 빨리 조취해주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

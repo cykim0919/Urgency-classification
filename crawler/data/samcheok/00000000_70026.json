@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70026&&pageUnit=10&key=313&pageIndex=28",
+    "id": "70026",
+    "title": "3공학관 414호",
+    "timestamp": "436",
+    "poster": "3공학관 414호 문고리좀 고쳐주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

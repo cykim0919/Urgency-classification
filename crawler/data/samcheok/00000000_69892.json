@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69892&&pageUnit=10&key=313&pageIndex=41",
+    "id": "69892",
+    "title": "3공학관 4층 중앙 여자화장실 문 고장이요~!",
+    "timestamp": "513",
+    "poster": "3공학관 4층 중앙에 있는 여자화장실 안쪽에 있는 가운데 문이 고장났네요;; 고쳐주세요~! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70156&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70156",
+    "title": "5공학관 1층 남자화장실 출입문 고장",
+    "timestamp": "789",
+    "poster": "안녕하세요, 5공학관 1층 남자화장실 출입문의 자동 닫힘 기능이 안 되고 있습니다. 건물 1층의 화장실이다 보니 미관상 좋지 않고, 화장실 냄새도 새어 나옵니다. 번거로우시더라도, 자동닫힘 기능을 원상 복구하여 주시기를 당부드립니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

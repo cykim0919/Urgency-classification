@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69944&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69944",
+    "title": "제4공학관 시설물 고장신고 처리하였습니다.",
+    "timestamp": "407",
+    "poster": "쾌적한 환경을 위하여 관심을 가져 주셔서 감사드립니다. 제4공학관 1층여, 2층남 세면기 폽업, I트랩 각 1개씩 교체 제4공학관 3층남자 변기 수세밸브 피스톤교체 하였습니다. 시설물 고장시 불편하시더라도 신고하여 주시길 부탁드립니다. 기계팀(570-6711,6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

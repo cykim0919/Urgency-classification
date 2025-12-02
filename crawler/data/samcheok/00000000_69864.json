@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69864&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69864",
+    "title": "4공학관 열람실 형광등 교체해 주세요..",
+    "timestamp": "624",
+    "poster": "4공학관열람실 형광등 교체해 주세요.. 칸막이로 되어있는 열람실 입니다. 4공학관열람실에 형광등이 나간 것도있고, 특히 제 자리 위에는 형광등이 없습니다.. 형광등 설치해 주세요... function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69850&&pageUnit=10&key=313&pageIndex=46",
+    "id": "69850",
+    "title": "학생회관 2층 정수기요!",
+    "timestamp": "697",
+    "poster": "학생회관 공무원준비반 앞에있는 정수기에 온수가 안나와요~ 정수기 온수좀 고쳐주세요 미지근한 물 밖에 안나옵니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

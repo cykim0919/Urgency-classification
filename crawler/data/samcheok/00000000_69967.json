@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69967&&pageUnit=10&key=313&pageIndex=34",
+    "id": "69967",
+    "title": "5공학관 2층 정수기 점검요청",
+    "timestamp": "389",
+    "poster": "5공학관 2층 정수기 물이 조금씩 나오고, 온수, 냉수 모두 미지근한 물로 나오니 점검부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

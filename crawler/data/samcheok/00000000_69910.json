@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69910&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69910",
+    "title": "생활체육관 옆 족구장 가로등 하나 고장",
+    "timestamp": "489",
+    "poster": "생활체육관(레저스포츠과가 사용하는 체육관)옆 족구장 가로등 2개중 한개가 고장 났습니다. 고쳐주세요^^ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

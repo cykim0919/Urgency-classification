@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69887&&pageUnit=10&key=313&pageIndex=42",
+    "id": "69887",
+    "title": "동아리 타운 212호",
+    "timestamp": "555",
+    "poster": "창가쪽 전기가 들어오질 않습니다. 고쳐주세요! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

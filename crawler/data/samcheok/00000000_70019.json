@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70019&&pageUnit=10&key=313&pageIndex=29",
+    "id": "70019",
+    "title": "공실관 및 시설물 고장신고 처리되었습니다.",
+    "timestamp": "417",
+    "poster": "날씨가 후텁지근하고 언제 내릴지 모를 폭우에 조심하시기 바랍니다. 공실관 3층남자 화장실 고장신고 처리 되었습니다. 본관 1층여자 화장실 고장신고 처리 되었습니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

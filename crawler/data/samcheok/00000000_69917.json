@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69917&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69917",
+    "title": "삼공학관4층 중앙 남자화장실 소변기요",
+    "timestamp": "488",
+    "poster": "삼공학관4층 중앙 남자화장실 소변기요 창문쪽 두개 소변기가 물이새요 빨리 좀 고쳐주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70044&&pageUnit=10&key=313&pageIndex=26",
+    "id": "70044",
+    "title": "3공학과 4층 복도, 화장실, 강의실 내부에 많이 나갔습니다.",
+    "timestamp": "464",
+    "poster": "3공학과 4층 복도, 화장실, 강의실 내부에 많이 나갔습니다. 우선 복도와 남자 화장실이 굉장히 불편합니다. 밤에 다니기가 어렵구 불편합니다. 빠른 시일 내에 교체해주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

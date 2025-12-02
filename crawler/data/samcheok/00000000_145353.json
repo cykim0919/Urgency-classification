@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=145353&&pageUnit=10&key=313&pageIndex=4",
+    "id": "145353",
+    "title": "2공 310호 실험실 온도조절이 안됨",
+    "timestamp": "512",
+    "poster": "사진 확대보기 사진 확대보기 온도에 민감한 장비나 약품이 많은 실험실입니다. 외부가 22도인데 내부온도가 거의 30도 까지 오르니 실험 장비가 고장나거나 약품이 새거나 할것같습니다. 에어컨이 전혀 의미가 없습니다. 확인부탁합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "그림1.png KakaoTalk_20210705_180421808.jpg"
+}

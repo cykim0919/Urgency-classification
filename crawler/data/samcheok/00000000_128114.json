@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=128114&&pageUnit=10&key=313&pageIndex=8",
+    "id": "128114",
+    "title": "5공학관 엘리베이터좀 고쳐주세요",
+    "timestamp": "840",
+    "poster": "1층에서는 올라가는 버튼은 5번정도는 꾹꾹꾹 눌러야 눌리고 엘리베이터 안 벽면에있는 버튼 중에 '닫힘'버튼이 가끔 눌러져있어서 타자마자 엘레베이터가 닫히는 상황이 발생합니다. 안전사고가 우려됩니다. 또한, 닫힘 버튼이 먹통인경우가 다반사입니다. 확인부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

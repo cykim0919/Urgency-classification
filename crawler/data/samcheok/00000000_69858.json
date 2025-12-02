@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69858&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69858",
+    "title": "정문 생활 체육공원 배드민턴 네트 좀 달아주세요",
+    "timestamp": "668",
+    "poster": "더운 날씨에도 고생이 많으십니다. 신정문 체육공원 배드민턴구장 말인데요. 예전에는 배드민턴 구장에 네트가 있어서 친구들과 재미삼아서, 운동삼아서 자주 이용 했던 곳이지만 현재 네트가 없는 관계로 예전처럼 이용하지 못해서 안타까워 하고 있었습니다 그러던 중에 이렇게 홈페이지를 둘러보던중에 신고란이 있어 글을 남깁니다. 학생들이 좀더 나은 체육활동과 여가생활을 즐길수 있도록 학교측에서 많은 관심을 가져 주셨으면 하는 바램입니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

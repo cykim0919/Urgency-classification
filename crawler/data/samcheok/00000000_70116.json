@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70116&&pageUnit=10&key=313&pageIndex=19",
+    "id": "70116",
+    "title": "3공학관 와이파이가 안됩니다.",
+    "timestamp": "750",
+    "poster": "9월 30일 정전이후로 3공학관 와이파이가 되지가 않네요... 고장난게 아닌가 하는 생각이 들어서 글 올려봅니다.. 고장이 난거라면 빠른 수리 부탁드릴게요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

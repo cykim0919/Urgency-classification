@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69985&&pageUnit=10&key=313&pageIndex=32",
+    "id": "69985",
+    "title": "5공학관 3층 남자화장실 형광등교체바랍니다.",
+    "timestamp": "403",
+    "poster": "긴 형광등 2개, 작은 전구 2개 교체바랍니다^^ 수고하세요~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

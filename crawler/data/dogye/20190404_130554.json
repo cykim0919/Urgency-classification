@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=78&nttNo=130554&&pageUnit=10&key=323&pageIndex=1",
+    "id": "130554",
+    "title": "도계캠퍼스 헬스장 스미스머신 고장",
+    "poster": "사진 확대보기 체육관 아래에 있는 헬스장 스미스 머신 고장났습니다 바를 돌려서 기계에 걸치는 검은색 부분 중 한 쪽이 따로 놉니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "timestamp": "2019년 04월 04일 17시 20분 56초",
+    "content": "1554366001551.jpg"
+}

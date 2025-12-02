@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=162768&&pageUnit=10&key=313&pageIndex=2",
+    "id": "162768",
+    "title": "1공학관 3층 정수기 물안나옴",
+    "timestamp": "350",
+    "poster": "1공학관 3층 정수기 물이 더이상 나오지 않습니다. 확인부탁드립니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

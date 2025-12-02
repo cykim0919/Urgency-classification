@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70059&&pageUnit=10&key=313&pageIndex=25",
+    "id": "70059",
+    "title": "3공학관 4층 걸래빠는 곳에서 물 계속새요~!",
+    "timestamp": "540",
+    "poster": "3공학관 4층 걸래빠는 곳에서 물 계속새요~! 중앙 4층 화장실앞에 있는 걸래빠는 곳에서 물이 계속 샙니다. 샌지는 좀 오래된거 같아요.. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

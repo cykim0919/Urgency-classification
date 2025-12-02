@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69854&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69854",
+    "title": "학생회관 2층 공무원 준비반 형광등 교체해주세요.",
+    "timestamp": "614",
+    "poster": "자리번호 6번 상단의 형광등이 깜빡깜빡합니다. 교체좀 해주세요.. 형광등때문에 제 머리도 깜빡깜빡하네요 ^^****** (출입하실려면 카드나 지문이 있어야 합니다.. 학생회관 3층 취업지원실에 문의해보세요.) 감사합니다~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

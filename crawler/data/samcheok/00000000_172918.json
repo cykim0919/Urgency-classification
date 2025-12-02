@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=172918&&pageUnit=10&key=313&pageIndex=2",
+    "id": "172918",
+    "title": "체육관 양개도어 고정걸쇠 파손",
+    "timestamp": "211",
+    "poster": "체육관 창고 양개도어 고정걸쇠 파손으로 잠금이 어려우니 교체 부탁 합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

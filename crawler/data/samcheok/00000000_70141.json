@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70141&&pageUnit=10&key=313&pageIndex=17",
+    "id": "70141",
+    "title": "1공 3층 정수기와 칠판지우개털이기 고장이요.",
+    "timestamp": "717",
+    "poster": "전원을 on으로 해놔도 정수기와 칠판지우개털이기가 작동을안합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

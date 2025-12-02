@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70111&&pageUnit=10&key=313&pageIndex=20",
+    "id": "70111",
+    "title": "5공학관 405호 에어컨 문제",
+    "timestamp": "555",
+    "poster": "항공임베디드 교육을 받고 있습니다. 하루 종일 컴퓨터로 하는 교육이라 열기가 많이 나오는데 에어컨이 재대로 동작하지 않아 교육에 지장이 있네요. 빠른 조치 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

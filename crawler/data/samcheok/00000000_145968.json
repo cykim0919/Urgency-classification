@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=145968&&pageUnit=10&key=313&pageIndex=4",
+    "id": "145968",
+    "title": "2공학관 206-1호 세면대 물마개 고장",
+    "timestamp": "477",
+    "poster": "뒤에서 사진의 부품이 부러져 물마개가 작동하지않습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "12.png"
+}

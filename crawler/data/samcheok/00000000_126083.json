@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=126083&&pageUnit=10&key=313&pageIndex=9",
+    "id": "126083",
+    "title": "농대3호관 110호 환풍기 작동 문제",
+    "timestamp": "857",
+    "poster": "이번년도에 방을 배치받고 한 번도 사용한 적은 없습니다. 전기 문제인 것 같습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

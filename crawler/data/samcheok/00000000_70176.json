@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70176&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70176",
+    "title": "학생회관 뒤 생활체육관 옆 족구장 네트 설치해주세요",
+    "timestamp": "823",
+    "poster": "언제부터인가 봉이 굴러댕기더니 이젠 아예 없더라구요 네트가 없어서 사용자체를 못하고 있습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

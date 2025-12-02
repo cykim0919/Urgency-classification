@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=140834&&pageUnit=10&key=313&pageIndex=5",
+    "id": "140834",
+    "title": "전기 콘센트 정비 요청",
+    "timestamp": "742",
+    "poster": "사진 확대보기 사진 확대보기 교육2호관 411호 전기 콘센트 정비를 요청드립니다. -전기가 들어오지 않음 -벽에 부착된 상태가 불량함 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "KakaoTalk_20201102_165732596.jpg KakaoTalk_20201102_165732596_01.jpg"
+}

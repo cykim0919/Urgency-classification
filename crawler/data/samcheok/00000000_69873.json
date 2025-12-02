@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69873&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69873",
+    "title": "운동장 축구 골대 그물망 좀 바꿔주세요 ~",
+    "timestamp": "596",
+    "poster": "다 찢어졌어요 ~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

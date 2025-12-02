@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=143655&&pageUnit=10&key=313&pageIndex=5",
+    "id": "143655",
+    "title": "5공학관 404호 히터,에어컨 고장",
+    "timestamp": "653",
+    "poster": "5공 4층 404호 히터,에어컨 고장났습니다. 빨간불이 들어와 전원 on/off도 안됩니다. 확인부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

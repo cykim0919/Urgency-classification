@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69869&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69869",
+    "title": "무선인터넷!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "timestamp": "655",
+    "poster": "강의동, 도서관 무선인터넷 진짜 잘 안되요. 자꾸 끊기고.... 접때도 글 썼는데 보시긴 했는지요.. 학교 무선인터넷 어쩌고 작업한다고 며칠 안된다음부터 아주 메롱이네요. 조치좀 취해주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

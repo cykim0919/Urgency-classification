@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70151&&pageUnit=10&key=313&pageIndex=16",
+    "id": "70151",
+    "title": "4공학관 1층 여자화장실 세면대 좀 고쳐주세요..",
+    "timestamp": "634",
+    "poster": "4공학관 1층 여자화장실 세면대 좀 고쳐주세요.. 왼쪽 세면대는 아예 물이 안 나오구요 오른쪽 세면대는 손만 씻어도 막혀서 잘 안 내려가서 사용 하기가 힘듭니다. 고장 난 지 꽤 된 거 같은데 빠른 시일 내로 부탁 드립니다~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

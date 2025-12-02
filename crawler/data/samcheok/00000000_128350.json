@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=128350&&pageUnit=10&key=313&pageIndex=8",
+    "id": "128350",
+    "title": "1공학관 211호 신재생에너지 연구실 히터 고장 문의",
+    "timestamp": "759",
+    "poster": "1공학관 211호 신재생에너지 연구실에서 학부연구생으로 일하고 있는 학생입니다. 설치되어있는 히터가 작동이 안되서 확인 및 점검을 부탁 드립니다. 리모컨을 사용해도 작동이 안됩니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70188&&pageUnit=10&key=313&pageIndex=12",
+    "id": "70188",
+    "title": "2공학관 공실관쪽방향 1~2층사이 계단 등",
+    "timestamp": "770",
+    "poster": "2공학관에서 공실관쪽 방향 1층~2층사이의 계단에있는 불이 나갔습니다. 밤에 계단이 잘안보일정도라서 수리부탁드립니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

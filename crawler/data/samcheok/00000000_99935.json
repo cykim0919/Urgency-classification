@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=99935&&pageUnit=10&key=313&pageIndex=9",
+    "id": "99935",
+    "title": "총학생회 사무실 시건장치 문의",
+    "timestamp": "1416",
+    "poster": "사진 확대보기 안녕하십니까 제 27대 WITH 총학생회 복지국장 문윤상입니다. 학생회관 4층 복도 끝에 위치한 총학생회 사무실 철문의 시건장치가 사진과 같이 제 역할을 못하고 있어 문의드립니다. 문 손잡이 잠금장치는 정상적으로 작동되어 만약 수리가 어려우시면 시건장치를 제거하여 주셔도 무방합니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "캡처.PNG"
+}

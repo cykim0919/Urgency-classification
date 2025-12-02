@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70139&&pageUnit=10&key=313&pageIndex=17",
+    "id": "70139",
+    "title": "학생회관 뒤 족구장 가로등 고장",
+    "timestamp": "779",
+    "poster": "학생회관 뒤에 있는 족구장 가로등이 켜져있지 않습니다. 앞쪽에 있는 가로등은 켜져있는데 뒤에있는 가로등은 꺼져서 불편함이 있습니다. 해결해주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

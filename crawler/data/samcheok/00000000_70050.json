@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70050&&pageUnit=10&key=313&pageIndex=26",
+    "id": "70050",
+    "title": "5공학관 6층 복도 형광등 불 안들어옵니다",
+    "timestamp": "456",
+    "poster": "5공학관 6층 복도 형광등 불 안들어옵니다 엘레베이터에서 내려서 오른쪽편 형광등 하나도 불이 안들어옵니다. 교체부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

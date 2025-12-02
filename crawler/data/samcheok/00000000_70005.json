@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70005&&pageUnit=10&key=313&pageIndex=30",
+    "id": "70005",
+    "title": "오공학관 6층 612호 에어콘작동이 안됩니다",
+    "timestamp": "398",
+    "poster": "오공학관 6층 612호 에어콘작동이 안됩니다 갑자기 안나오는데 왜그러는거죠??? function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

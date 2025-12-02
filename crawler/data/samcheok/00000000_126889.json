@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=126889&&pageUnit=10&key=313&pageIndex=9",
+    "id": "126889",
+    "title": "학군단 3층 여자화장실 방충망",
+    "timestamp": "1007",
+    "poster": "동아리 때문에 학군단 건물에 갈 때마다 화장실에 벌레가 너무 많아서 무서워서 못 가겟습니다ㅠ 게다가 전체적으로 학군단 건물 창문 방충망에 구멍이 있는게 많던데 가능한 한 전부 교체해주셨으면 합니다. 안그래도 주변에 풀이 많은데 방충망에 구멍도 많으니까 바닥에 벌레들도 기어다니고 무서워요.. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

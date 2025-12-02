@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69896&&pageUnit=10&key=313&pageIndex=41",
+    "id": "69896",
+    "title": "1공학관 자판기.",
+    "timestamp": "516",
+    "poster": "1공학관 1층 자판기 마운틴듀 가격이 잘못 기제되어 잇습니다. 학생들 돈날리지 않게 고쳐주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

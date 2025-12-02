@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70166&&pageUnit=10&key=313&pageIndex=14",
+    "id": "70166",
+    "title": "3공학관 정수기",
+    "timestamp": "862",
+    "poster": "3공학관 4층 정수기에 물이 잘안나오네요 ... ㅜㅜㅜ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

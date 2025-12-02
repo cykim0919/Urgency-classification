@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69877&&pageUnit=10&key=313&pageIndex=43",
+    "id": "69877",
+    "title": "5공학관 3층 화장실",
+    "timestamp": "604",
+    "poster": "휴지를 넣는 케이스가 망가져서 휴지를 찾아볼수가 없습니다 .빨리수리좀 부탁드릴께요.. 그리고 변기 시건창치가 망가져서 4곳중 1곳은 사용이 불가능합니다 .빠를 처리부탁드리겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

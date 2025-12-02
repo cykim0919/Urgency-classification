@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69977&&pageUnit=10&key=313&pageIndex=33",
+    "id": "69977",
+    "title": "3공학관 4층 중앙여자화장실",
+    "timestamp": "414",
+    "poster": "3공학관 4층 중앙여자화장실 화장지통좀 바꿔주세요. 통이 망가져서 휴지 쓸때마다 뚜껑이 열리는데 불편하기도 하고 다치는 사람도 있네요. 빨리 고쳐주세요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

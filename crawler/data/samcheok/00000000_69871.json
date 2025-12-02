@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69871&&pageUnit=10&key=313&pageIndex=44",
+    "id": "69871",
+    "title": "강의동 강의실 203호 형광등 다수(6개 이상) 교체 부탁드립니다.",
+    "timestamp": "576",
+    "poster": "교체해야할 형광등이 많습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

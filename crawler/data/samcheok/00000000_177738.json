@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=177738&&pageUnit=10&key=313&pageIndex=2",
+    "id": "177738",
+    "title": "강의동 앞 벌집.",
+    "timestamp": "210",
+    "poster": "강의동 앞 나무 꼭대기에 큰 벌집이 있습니다. 항상 앞에 지나갈때마다 벌집에서 나온 벌들 때문에 불안합니다. 날씨 더 따뜻해지기전에 제거해주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "KakaoTalk_20250320_142114246.jpg KakaoTalk_20250320_142114246_01.jpg"
+}

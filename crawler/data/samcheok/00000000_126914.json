@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=126914&&pageUnit=10&key=313&pageIndex=8",
+    "id": "126914",
+    "title": "강의동 2층 화장실（엘레베이터 쪽）",
+    "timestamp": "759",
+    "poster": "천장에서 물이 떨어집니다. 두 번째 칸이요!! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

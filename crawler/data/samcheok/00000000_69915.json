@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69915&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69915",
+    "title": "삼척언장생활관 인쇄실 문제 [해결]",
+    "timestamp": "496",
+    "poster": "복사실에 직접 방문 문의로 해당 사안을 알렸으며, 2일 내로 점검 및 수리해주신다는 답변을 받았습니다. 안녕하세요. 현재 삼척언장생활관에 거주하고 있는 학생입니다. 현재 기숙사내 인쇄실에서 인쇄를 하려하였으나 21C대학교 인쇄카드에서 금액만 빠져나간 뒤 출력이 되고있지 않습니다. 인쇄설정은 기본 및 Raster설정을 하였으며 현재 인쇄불능 전, 2매 인쇄는 반성공적으로 되었으나 (장당 인쇄 대기시간 약 4분, 출력결과물 또한 매끄럽지못하고 흑백영화같이 부분적으로 인쇄되지 않은 점들이 있음) 이후 시도한 인쇄가 되지 않고 있습니다. 프린터 기기에는 Processing/Data 에 녹색빛이 들어와있으며 Error에는 빛이 들어와있지 않습니다. 현재 20분간 대기중이나 인쇄되고 있지 않으며 인쇄명령을 내린 컴퓨터로 이와 같은 글을 남깁니다. (키보드 상태도 좋지못해 타이핑에 어려움을 겪고있습니다) 033-573-9518은 연결되지 않고 있으며 011-364-1017은 없는 번호라고 합니다. 인쇄물 가격에 대한 환불 빛 프린터 기기 수리 요청/부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

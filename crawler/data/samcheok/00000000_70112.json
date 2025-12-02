@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70112&&pageUnit=10&key=313&pageIndex=19",
+    "id": "70112",
+    "title": "공무원준비반 문이 이상합니다",
+    "timestamp": "545",
+    "poster": "학생회관에 있는 공무원 준비반 출입문이 자석식으로 해서 열고 닫고 하는거잖아요 그런데 그게 잘 안되서 공준반 학생이 아닌 다른 학생들이 막 들어오더라구요 자기 자리도 다 정해져 있는데 공부하러 왓다가 다른사람이 자기 자리에 앉아있는거 보면 정말 쫌 그럴것 같더라구요 문좀 빨리 고쳐주셧으면 합니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

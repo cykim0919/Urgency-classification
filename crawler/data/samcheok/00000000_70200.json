@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70200&&pageUnit=10&key=313&pageIndex=11",
+    "id": "70200",
+    "title": "1공학관 엘레베이터 수리부탁드립니다.",
+    "timestamp": "867",
+    "poster": "1공학관 엘레베이터 수리부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69909&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69909",
+    "title": "3공학관 중앙 4층 여자화장실! 변기에서 계속 물이 나옴!",
+    "timestamp": "536",
+    "poster": "3공학관 중앙 4층 여자화장실 변기에서 계속 물이나오네요! 확인하시고 고쳐주세용~!ㅋ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

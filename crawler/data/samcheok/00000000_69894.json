@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69894&&pageUnit=10&key=313&pageIndex=41",
+    "id": "69894",
+    "title": "강의동 206호 컴퓨터가 말썽입니다.",
+    "timestamp": "474",
+    "poster": "안녕하세요 강의동 206호 컴퓨터가 계속 말썽입니다. 요즘 멀티미디어사용해서 하는 수업이 많은데 모니터가 계속 안들어오네요- 전원이 켜지는거 같긴한데 모니터가 전원이 들어옴에도 불구하고 화면이 나오지 않습니다. 빠른 처리 부탁드립니다~! ** 그리고 시설물 고장은 아닌데 강의동에 교탁이 부족한것 같습니다. 교탁이 없는 강의실이 있어서 타강의실에서 저희강의실 교탁을 계속 가져가서 찾아와야합니다. 이부분도 개선 부탁드립니다~ 수고하세요! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

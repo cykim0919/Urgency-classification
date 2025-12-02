@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70108&&pageUnit=10&key=313&pageIndex=20",
+    "id": "70108",
+    "title": "조형관 410호",
+    "timestamp": "649",
+    "poster": "안녕하세요 저는 실내가구디자인학생입니다.. 다름이아니라 410호는 컴퓨터실인데 작년부터 컴퓨터의자 2/3가 앉을 수 없는 상태들입니다. 그래서 수업시간마다 의자를 찾으러다녀야하구요.. 하루빨리 의자를 교체해주시면 감사하겠습니다.~^^ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=140798&&pageUnit=10&key=313&pageIndex=5",
+    "id": "140798",
+    "title": "5공학관 라디에이터 재설치건",
+    "timestamp": "750",
+    "poster": "얼마전 5공학관에 설치된 라디에이터가 모두 철거된 걸로 알고 있습니다. 대면수업시 코로나로 인해 중앙난방을 이용하는 것보다 라디에이터가 더 효과적이지 않을까 싶습니다. 공기 대류적인 측면에서 중앙냉난방은 비말을 확산시키는 것으로 알고 있습니다. 철거한지 얼마 안되었으니 폐기하기 전에 재설치를 하고 이번 겨울부터 강의실은 라디에이터를 그냥 쓰는 것은 어떨까요? 특히, 추위로 인해 감기와 코로나 증상이 구분되지 않을 수 있어 학생들의 안전을 위해서는 난방이 필요할 것 같습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

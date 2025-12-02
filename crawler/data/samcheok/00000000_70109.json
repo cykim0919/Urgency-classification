@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70109&&pageUnit=10&key=313&pageIndex=20",
+    "id": "70109",
+    "title": "조형관 410호 강의실 문제 해결 되었습니다.",
+    "timestamp": "652",
+    "poster": "2013년 5월 6일 환경개선 실사 결과 410호 의자교체 35개 구입 해주기로 결정 되었습니다. 불편 하시더라도 의자가 구입 될때까지 기다려 주십시오. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

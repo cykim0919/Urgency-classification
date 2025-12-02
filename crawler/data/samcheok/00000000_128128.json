@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=128128&&pageUnit=10&key=313&pageIndex=8",
+    "id": "128128",
+    "title": "5공 2층 남자화장실 소변기 고장",
+    "timestamp": "858",
+    "poster": "5공 2층 남자화장실 왼쪽에서 두번째 소변기에서 물이 계속 나옵니다. 확인 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

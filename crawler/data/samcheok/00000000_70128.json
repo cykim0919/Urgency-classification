@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70128&&pageUnit=10&key=313&pageIndex=18",
+    "id": "70128",
+    "title": "1공학관 의자",
+    "timestamp": "764",
+    "poster": "1공학관 앞에 벤치의자가 나사가 풀렸는지 맨윗칸 한줄이 떨어져요.. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

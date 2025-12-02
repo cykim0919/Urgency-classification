@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70134&&pageUnit=10&key=313&pageIndex=17",
+    "id": "70134",
+    "title": "에어컨",
+    "timestamp": "774",
+    "poster": "에어컨 고장입니다 다른건물은 에어컨 나오는데 안나오는건물도 많거든요 고장난거 맞죠? function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70021&&pageUnit=10&key=313&pageIndex=29",
+    "id": "70021",
+    "title": "중앙도서관",
+    "timestamp": "532",
+    "poster": "중앙도서관 1층 남자 화장실 첫번째 소변기(창문을기준) 물이 안 멈추고 계속 내려 옵니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

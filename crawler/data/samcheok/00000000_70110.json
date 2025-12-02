@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70110&&pageUnit=10&key=313&pageIndex=20",
+    "id": "70110",
+    "title": "3공학관 412호 에어컨 고장입니다.",
+    "timestamp": "618",
+    "poster": "3공학관 412호 에어컨 고장입니다. 작동 자체가 아예 되지 않습니다. 되도록 빨리 찾아주시면 감사하겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

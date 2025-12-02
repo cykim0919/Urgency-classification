@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=145318&&pageUnit=10&key=313&pageIndex=4",
+    "id": "145318",
+    "title": "2공학관 2층 （여자） 화장실 불편사항 검토 요망",
+    "timestamp": "528",
+    "poster": "화장실 내부 공간이 협소한 관계로 현재 전면좌측에 설치되어 있는 소지품 거치선반（알류미늄 소재）을 사용자의 이용에 불편함이 없는 곳으로 위치 이동 설치를 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

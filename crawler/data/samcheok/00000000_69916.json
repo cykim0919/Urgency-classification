@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69916&&pageUnit=10&key=313&pageIndex=39",
+    "id": "69916",
+    "title": "공무원 준비반 형광등",
+    "timestamp": "487",
+    "poster": "7번 자리 위쪽 형광등이 자꾸 깜빡이네요 확인 후 교체바랍니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

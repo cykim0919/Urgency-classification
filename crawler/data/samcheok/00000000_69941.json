@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69941&&pageUnit=10&key=313&pageIndex=37",
+    "id": "69941",
+    "title": "5공학관 3층 중앙 정수기가 안됩니다.",
+    "timestamp": "430",
+    "poster": "5공학관 3층 정수기가 안되네요 빨리 고쳐주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

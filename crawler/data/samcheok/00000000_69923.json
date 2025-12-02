@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69923&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69923",
+    "title": "5공학과 6층 정수기가 몇일전부터 물이안나옵니다.",
+    "timestamp": "468",
+    "poster": "5공학관 6층에 있는 정수기가 몇일전부터 물이안나옵니다,., 한3~4일 정도 된거같은데,, 계속 물이안나오네요.. 첨엔 물이없어서 안나오나 했는데 계속 기다려도 나오지가 않네요. 수리 부탁드립니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

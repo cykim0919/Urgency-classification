@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=137989&&pageUnit=10&key=313&pageIndex=6",
+    "id": "137989",
+    "title": "제2학생회관 학군단 건물 209호 세면대",
+    "timestamp": "892",
+    "poster": "세면대 물받을 수 있게끔 마개를 닫아봤는데 push 버튼을 눌러도 원상복귀가 안됩니다ㅠㅠ 세면대 다시 물 내려갈 수 있게 수리 부탁드려요! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70175&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70175",
+    "title": "4공학관 203호 멘델레예프 학습실 인터넷문제.",
+    "timestamp": "692",
+    "poster": "4공학관 203호 학습실의 인터넷이 약 한달전부터 속도가 많이 느려졌습니다. 인터넷사의 문제인지 인터넷 모뎀상의 문제인지 알수는 없지만 느려져서 문의 드립니다. 신속하게 처리 부탁 드리겠습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

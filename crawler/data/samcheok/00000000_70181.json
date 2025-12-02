@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70181&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70181",
+    "title": "2공학관3층 샤워실",
+    "timestamp": "864",
+    "poster": "보일러수리라고 써놓은지 반년된거같은데 수리좀 부탁드립니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

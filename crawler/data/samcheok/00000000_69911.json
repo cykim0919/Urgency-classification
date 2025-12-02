@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69911&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69911",
+    "title": "조형관 에어컨 설치",
+    "timestamp": "584",
+    "poster": "여름에 너무 더워서 수업할 힘이 없습니다. 에어컨 설치를 해주세요 강의실에서 에어컨 없이는 정말 힘들고요 선풍기 조차 없네요 대책을 마련해주세요 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

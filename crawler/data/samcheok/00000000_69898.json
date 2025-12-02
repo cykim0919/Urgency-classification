@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69898&&pageUnit=10&key=313&pageIndex=41",
+    "id": "69898",
+    "title": "도서관",
+    "timestamp": "550",
+    "poster": "도서관이 너무 더워요. 요즘 날씨가 하루는 추웠다, 하루는 더웠다 이러는데 탄력적으로 온도조정 부탁드려요. 매일 같은 온도인 것 같네요. 공기도 너무 답답해요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

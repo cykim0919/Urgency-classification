@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70125&&pageUnit=10&key=313&pageIndex=18",
+    "id": "70125",
+    "title": "3공학관 화장실, 정수기",
+    "timestamp": "713",
+    "poster": "3공학관 4층 화장실 전등이랑 정수기가 안나와요 일주일전에 전화로 말씀드렸는데 아직까지 안고쳐주시네요. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

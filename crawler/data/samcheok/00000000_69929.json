@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69929&&pageUnit=10&key=313&pageIndex=38",
+    "id": "69929",
+    "title": "공무원준비반 무선인터넷",
+    "timestamp": "506",
+    "poster": "공무원 준비반 무선인터넷작동 문제 입니다 입구쪽에서 바라 봤을때 오른쪽 라인에 공유기가 달려 있는데 왼쪽 구석(에어컨 있는쪽) 와이파이가 방학전에는 잘 잡혀서 인터넷강의 짜잘한 문제는 있었지만 그래도 들을만 했는데 최근에는 인터넷강의를 듣는것은 물론 심지어 네이버 홈페이지조차 잘 안뜨게 되었습니다 확인 부탁드립니다 가능하다면 오른쪽 에어컨쪽도 하나 추가 설치해주셨으면 좋겠습니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=170599&&pageUnit=10&key=313&pageIndex=2",
+    "id": "170599",
+    "title": "후문 게시판 파손 신고",
+    "timestamp": "265",
+    "poster": "안녕하십니까. 다름이 아니라 후문에 위치한 게시판 중 하나가 파손되어 공고물 및 홍보물을 붙이는데 애로사항이 있을것으로 파악됩니다. 사진 첨부합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "후문게시판.jpg 후문게시판-2.jpg"
+}

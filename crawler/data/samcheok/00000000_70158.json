@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70158&&pageUnit=10&key=313&pageIndex=15",
+    "id": "70158",
+    "title": "2공학관에서 도서관으로 내려가는 계단 첫번째 가로등이 안켜져요",
+    "timestamp": "725",
+    "poster": "안녕하세요. 2공학관에서 도서관으로 내려가는 계단 첫번째 가로등 전구가 나갔는지 불이 들어오지 않습니다. 제가 항상 늦은 밤에 그쪽으로 퇴근을 하거든요. 위험한것 같아서요. 수리좀 부탁드리겠습니다. 수고하십시오. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

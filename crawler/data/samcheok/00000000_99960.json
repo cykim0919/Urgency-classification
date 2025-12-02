@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=99960&&pageUnit=10&key=313&pageIndex=9",
+    "id": "99960",
+    "title": "4공학관 206호 전등 하나가 들어오지 않습니다",
+    "timestamp": "934",
+    "poster": "사진 확대보기 앞문으로 들어와서 왼쪽줄 두번째 입니다 function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": "4공학관 컴퓨터실 전등.png"
+}

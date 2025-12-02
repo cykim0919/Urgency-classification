@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=182961&&pageUnit=10&key=313&pageIndex=1",
+    "id": "182961",
+    "title": "삼척캠퍼스 학생회관 계단",
+    "timestamp": "25",
+    "poster": "학생회관 올라가는 계단 위쪽 중에 벌어진 계단이 있습니다. 그 계단이 흔들거려 넘어질뻔한 학생을 보았고, 넘어짐 사고가 일어난다면 계단 쪽이라 위험성이 높아보입니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); var link_window = $('#bbs_ntt_cn_con'); $(link_window).html( link_window.html().autoLink({ target: \"_blank\" }) ); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

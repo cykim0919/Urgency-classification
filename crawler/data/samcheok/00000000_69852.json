@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69852&&pageUnit=10&key=313&pageIndex=45",
+    "id": "69852",
+    "title": "학생회관 1층 중앙 화장실 (남)",
+    "timestamp": "641",
+    "poster": "안녕하십니까? 다름이 아니라, 오늘 학생회관 1층 중앙 남자 화장실을 사용하였는데.. 사용중에.. 보아하니, 천장 형광등이 나갔었습니다. (창문쪽) 그래서 이렇게 올려봅니다. 저는 불편하지 않았지만, 타인이 불편 할 수 있으니, 빠른 교체 요망합니다. 감사합니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

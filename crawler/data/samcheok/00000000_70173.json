@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70173&&pageUnit=10&key=313&pageIndex=13",
+    "id": "70173",
+    "title": "2공학관 3층 남자샤워실 보일러",
+    "timestamp": "881",
+    "poster": "2공학관 3층 남자샤워실 따듯한물 잘 나오던보일러가 어느날 수리중이라며 분해되어있고 사용이 불가한데 사용할수있게끔 조치좀 취해주시기 바랍니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69945&&pageUnit=10&key=313&pageIndex=36",
+    "id": "69945",
+    "title": "음악당 야외화장실 고장 처리되었습니다.",
+    "timestamp": "406",
+    "poster": "시설물사용 불편에 대한 사항이 처리 되었습니다. 대변기 세척밸브 남자2, 여자2개 교체 대변기 수세밸브 남자2, 여자2개 교체 처리 하였습니다. 제 4공학관 1층 남자 소변기 막힘제거 하였습니다. 앞으로도 지속적인 관심 부탁드리겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

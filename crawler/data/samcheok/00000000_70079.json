@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70079&&pageUnit=10&key=313&pageIndex=23",
+    "id": "70079",
+    "title": "2공학관 및 시설물 고장신고 처리 되었습니다.",
+    "timestamp": "500",
+    "poster": "추위가 조금 풀렸네요. 그래도 겨울은 겨울~~ 2공학관 1층남자화장실 고장신고 처리 되었습니다. 학생회관 1층남자 화장실 고장신고 처리 되었습니다. 난방 가동중 증기 누설및 누수에 많은 관심 부탁드립니다. 시설물 고장으로인하여 불편함이 없도록 지속적인 관심 부탁드리며 이상 발생시 교내 기계팀으로 알려주시면 감사하겠습니다. 기계팀(570-6711, 6715) function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

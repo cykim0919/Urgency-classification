@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70103&&pageUnit=10&key=313&pageIndex=20",
+    "id": "70103",
+    "title": "5공학관 6층 복도 전체 , 중앙엘리베이터쪽  형광등이 안들어와요",
+    "timestamp": "559",
+    "poster": "어두워 지면 복도가 너무 어두워서 불편해요 고쳐 주시면 정말 감사하겟습니다. function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

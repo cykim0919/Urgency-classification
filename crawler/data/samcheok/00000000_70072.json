@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=70072&&pageUnit=10&key=313&pageIndex=23",
+    "id": "70072",
+    "title": "5공학관 405호 난방기 가동 강력히 요청합니다",
+    "timestamp": "518",
+    "poster": "5공학관 405호는 햇빛이 들지 않습니다. 오늘 같은 날씨는 꼭 가동 해주세요. 에너지 절약도 좋지만, 학생들의 건강도 중요하다고 생각합니다. 오늘 새벽까지도 남아서 설계과목 프로젝트 하는데, 정말 추웠습니다. 저희과 학생들은 실험실도 필요한 부분만 형광등 켜고 사용하고 있고, 멀티콘센트, 컴퓨터 등 꼭 필요한 것만 사용하고 있습니다. 이러한 부분을 참작하시어, 오늘만큼은 가동시켜주세요. 제발~ function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}

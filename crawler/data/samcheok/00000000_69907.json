@@ -1,0 +1,8 @@
+﻿{
+    "url": "https://wwwk.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=58&nttNo=69907&&pageUnit=10&key=313&pageIndex=40",
+    "id": "69907",
+    "title": "조형관에 중계기 설치해 주세요!!",
+    "timestamp": "636",
+    "poster": "조형관안에서 LG핸드폰이 터지치 않아 LG회사에 문의를 했습니다. LG텔레콤이 요금도 저렴하여 사용하고자 했으나 내용은 학교에서 중계기설치를 허락해줘야한다고 합니다. 허락이 쉽게 나지않는거 같아서 이렇게 글을 올립니다. 최소한 국립대학인 강원대 내에서 전화기가 터지지않는 다는 것이 이해가 됩니까? 돈없는 학생으로써 저렴한 가격에 핸드폰을 사용할수 있게 중계기설치를 해주세요!! function fn_resize_tbody() { tw = $('#contents').width(); if(tw) { rw = tw - 35; $('#ntt_cn_wdv').css('width', rw+'px'); } } $(document).ready(function() { fn_resize_tbody(); }); $(window).resize(function() { fn_resize_tbody(); });",
+    "content": ""
+}
